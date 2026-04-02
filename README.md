@@ -28,7 +28,7 @@ The datasets cover the following sectors:
 | Energy | Benson Otti |
 | Financial | Winfred Seyram Kwasi Agbakpe |
 | International Labor | Klenam Adabla |
-| Manufacturer | Member7 |
+| Manufacturer | Emmanuel Selorm Nartey |
 | U.S. International Stock Market | Member8 |
 
 > **Note:** Names of memeber 7 and member 8 will be stated once I receive their names
