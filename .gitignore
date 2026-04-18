@@ -1,20 +1,16 @@
-﻿# Virtual environment - NEVER commit this
+﻿
 venv/
 
 # Python cache
 __pycache__/
 *.pyc
 
-# Jupyter notebooks (optional)
 *.ipynb
 .ipynb_checkpoints/
 
-# VS Code settings
 .vscode/
 
-# OS files
 .DS_Store
 Thumbs.db
 
-# Large data file (optional - only if you don't want to commit it)
 Eight_Databases.xlsx
